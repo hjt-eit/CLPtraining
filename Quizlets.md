@@ -60,7 +60,7 @@ ____
 
 
 
-## Cassandra
+# Cassandra
 <img src="https://logos-download.com/wp-content/uploads/2021/01/Cassandra_Logo.png" width="500" height="400" />
 https://quizlet.com/792586128/cassandraday2-flash-cards/
 
@@ -71,7 +71,7 @@ ___
 
 
 
-## Hive
+# Hive
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/853px-Apache_Hive_logo.svg.png" width="500" height="400" />
 
 [Hive Flashcards | Quizlet](https://quizlet.com/792735083/hive-flash-cards/?new)
@@ -82,24 +82,35 @@ https://quizlet.com/792735083/hive-flash-cards/?new
 ___
 
 
-## SQL
-
-
+# SQL
 <img src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/uploads/2008/02/sql-595x335_0_0.jpg?itok=gnRGbu9H" />
 
 
-## Hadoop
+
+___
+
+
+# Hadoop
 
 
 <img src="https://th.bing.com/th/id/R.368620db181824917c6637dbc658123d?rik=seWO3E3bqljM%2bA&riu=http%3a%2f%2fhortonworks.com%2fwp-content%2fuploads%2f2016%2f03%2f10_year_hadoop_logo.png&ehk=BcHST7oku6f38FoloxopTorx8F2zHso4ZdNqh8HZunU%3d&risl=&pid=ImgRaw&r=0" width="500" height="400" />
 
 
 
-## HBase
+# HBase
+<img src="https://download.logo.wine/logo/Apache_HBase/Apache_HBase-Logo.wine.png" />
+
+
+# BigQuery
+
+<img src="https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1602664648/hevo-learn/BigQuery-4.png" />
 
 
 
-## BigQuery
+# Snowflake
+<img src="https://i1.wp.com/dbaontap.com/wp-content/uploads/2019/10/snowflake.png" />
+
+
 
 
 
