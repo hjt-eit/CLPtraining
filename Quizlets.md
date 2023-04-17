@@ -34,7 +34,7 @@ ___
 
 
 ## Spark
-<img src="https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png" width="600" height="500" />
+<img src="https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png" width="500" height="400" />
 
 https://quizlet.com/792717052/spark-eit-flash-cards/?new
 [Spark EIT Flashcards | Quizlet](https://quizlet.com/792717052/spark-eit-flash-cards/?new)
