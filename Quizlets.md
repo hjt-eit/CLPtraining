@@ -1,6 +1,7 @@
 
 ![AWS]([https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png] "aws")
-
+![alt text](image url "image Title")
+![AWS](https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png "aws")
 
 ## AWS 
 [AWS Flashcards | Quizlet](https://quizlet.com/792615872/aws-flash-cards/?new)
