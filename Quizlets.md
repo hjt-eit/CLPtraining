@@ -66,11 +66,12 @@ https://quizlet.com/792586128/cassandraday2-flash-cards/
 
 
 
+___
+
+
 
 
 ## Hive
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/853px-Apache_Hive_logo.svg.png" width="500" height="400" />
 
 [Hive Flashcards | Quizlet](https://quizlet.com/792735083/hive-flash-cards/?new)
