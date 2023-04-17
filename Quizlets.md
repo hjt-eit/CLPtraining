@@ -16,12 +16,12 @@ https://quizlet.com/792611949/kafka-flash-cards/?new
 ## Spark
 https://quizlet.com/792717052/spark-eit-flash-cards/?new
 [Spark EIT Flashcards | Quizlet](https://quizlet.com/792717052/spark-eit-flash-cards/?new)
-
+### 220+ questions on all aspects of Apache Spark
 
 
 ## Data Warehouse Architecture
 https://quizlet.com/792729935/data-warehouse-architecture-flash-cards/?new
-
+### Some of these answers get very technical, have a GPT window open for assistance w terminology.
 
 ## Cassandra
 https://quizlet.com/792586128/cassandraday2-flash-cards/
