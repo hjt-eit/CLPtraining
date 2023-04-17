@@ -5,9 +5,6 @@
 https://quizlet.com/792615872/aws-flash-cards/?new
 
 
-
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
-
 ## Azure
 https://quizlet.com/793628049/azure-flash-cards/?new
 
