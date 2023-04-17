@@ -1,5 +1,5 @@
 # AWS 
-![AWS](https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png "aws")
+![AWS](https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png "aws" =100x20) 
 [AWS Flashcards | Quizlet](https://quizlet.com/792615872/aws-flash-cards/?new)
 https://quizlet.com/792615872/aws-flash-cards/?new
 
@@ -10,6 +10,12 @@ https://quizlet.com/792615872/aws-flash-cards/?new
 https://quizlet.com/793628049/azure-flash-cards/?new
 
 ___
+
+# Data Structures
+
+https://quizlet.com/793742528/data-structures-flash-cards/?new
+
+____
 
 
 ## Kafka
