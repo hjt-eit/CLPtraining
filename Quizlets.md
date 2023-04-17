@@ -50,6 +50,10 @@ https://quizlet.com/792729935/data-warehouse-architecture-flash-cards/?new
 #### Some of these answers get very technical, have a GPT window open for assistance w terminology.
 
 ## Cassandra
+
+
+<img src="https://logos-download.com/wp-content/uploads/2021/01/Cassandra_Logo.png" width="500" height="400" />
+
 https://quizlet.com/792586128/cassandraday2-flash-cards/
 
 
