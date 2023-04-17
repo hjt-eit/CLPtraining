@@ -15,7 +15,6 @@ https://quizlet.com/793628049/azure-flash-cards/?new
 ___
 
 
-
 # Data Structures
 <img src="https://th.bing.com/th/id/R.5fe88cc15b64c6e4f72fa7c9ad934bec?rik=lWmNiye1D3o3Ng&riu=http%3a%2f%2fwww.crystincomputerscience.com%2fuploads%2f1%2f1%2f2%2f5%2f112539909%2fs167395087728886578_p3_i1_w640.jpeg&ehk=m3RGdR6fV6pZoN096VgaM7RXiVM4%2bbWzjLEUXFucebs%3d&risl=&pid=ImgRaw&r=0" width="600" height="500" />
 
@@ -32,7 +31,9 @@ ____
 https://quizlet.com/792611949/kafka-flash-cards/?new
 
 
+
 ___
+
 
 
 ## Spark
@@ -44,6 +45,7 @@ https://quizlet.com/792717052/spark-eit-flash-cards/?new
 #### 220+ questions on all aspects of Apache Spark
 
 
+
 ___
 
 
@@ -52,7 +54,10 @@ ___
 https://quizlet.com/792729935/data-warehouse-architecture-flash-cards/?new
 #### Some of these answers get very technical, have a GPT window open for assistance w terminology.
 
+
+
 ____
+
 
 
 ## Cassandra
@@ -62,9 +67,15 @@ https://quizlet.com/792586128/cassandraday2-flash-cards/
 
 
 
+
 ## Hive
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/853px-Apache_Hive_logo.svg.png" width="500" height="400" />
+
 [Hive Flashcards | Quizlet](https://quizlet.com/792735083/hive-flash-cards/?new)
 https://quizlet.com/792735083/hive-flash-cards/?new
+
 
 
 ___
