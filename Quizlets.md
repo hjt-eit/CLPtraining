@@ -14,13 +14,13 @@ ___
 
 ## Kafka
 
-![Azure](https://clipground.com/images/kafka-logo-7.png "Kafka")
+![Kafka](https://clipground.com/images/kafka-logo-7.png "Kafka")
 https://quizlet.com/792611949/kafka-flash-cards/?new
 
 ___
 
 ## Spark
-![Azure](https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png "Spark")
+![Spark](https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png "Spark")
 https://quizlet.com/792717052/spark-eit-flash-cards/?new
 [Spark EIT Flashcards | Quizlet](https://quizlet.com/792717052/spark-eit-flash-cards/?new)
 #### 220+ questions on all aspects of Apache Spark
