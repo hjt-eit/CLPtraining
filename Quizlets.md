@@ -1,27 +1,26 @@
+# AWS 
 ![AWS](https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png "aws")
-
-## AWS 
 [AWS Flashcards | Quizlet](https://quizlet.com/792615872/aws-flash-cards/?new)
 https://quizlet.com/792615872/aws-flash-cards/?new
 
 
 
+# Azure
 ![Azure](https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png "Azure")
-
-
-## Azure
 https://quizlet.com/793628049/azure-flash-cards/?new
 
 ___
 
 
 ## Kafka
+
+![Azure](https://clipground.com/images/kafka-logo-7.png "Kafka")
 https://quizlet.com/792611949/kafka-flash-cards/?new
 
 ___
 
-
 ## Spark
+![Azure](https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png "Spark")
 https://quizlet.com/792717052/spark-eit-flash-cards/?new
 [Spark EIT Flashcards | Quizlet](https://quizlet.com/792717052/spark-eit-flash-cards/?new)
 #### 220+ questions on all aspects of Apache Spark
