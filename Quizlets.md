@@ -53,7 +53,7 @@ ___
 ## Data Warehouse Architecture
 
 
-<img src="(https://th.bing.com/th/id/R.51bfde9362d5b8519db9c761f8059e41?rik=e6t1kx4xJAh6cg&riu=http%3a%2f%2f1.bp.blogspot.com%2f_NLaMCw4jDrI%2fTO_0vpcmPgI%2fAAAAAAAAAB0%2fBgLC9eNJY6w%2fs1600%2fdwh.PNG&ehk=qRDcjYDiR8ZDy1%2fv3UQDTC%2ffXF8tUUXj4351EBHIBM4%3d&risl=&pid=ImgRaw&r=0)" width="500" height="400" />
+<img src="https://lh4.googleusercontent.com/hLF5WMPXAlclspzJIyhMw1WAlQa4B4zRrFWTLm3km7BliGkYXqdT32OEHZKAFcM78RkU4dY5ffOIMjAo4f--63tAkZgl3nH3sQBibrVeUPunvpYEw7pyIPEBqzWi1XOMONgFVkLqKaafEVQN" width="500" height="400" />
 
 
 
