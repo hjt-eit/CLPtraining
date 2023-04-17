@@ -28,6 +28,7 @@ ____
 ## Kafka
 
 ![Kafka](https://www.eweek.com/wp-content/uploads/2020/10/Kafka.logo_.jpg "Kafka")
+
 https://quizlet.com/792611949/kafka-flash-cards/?new
 
 
