@@ -2,6 +2,7 @@
 
 <img src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png" width="600" height="500" />
 [AWS Flashcards | Quizlet](https://quizlet.com/792615872/aws-flash-cards/?new)
+
 https://quizlet.com/792615872/aws-flash-cards/?new
 
 
@@ -38,6 +39,7 @@ ___
 
 https://quizlet.com/792717052/spark-eit-flash-cards/?new
 [Spark EIT Flashcards | Quizlet](https://quizlet.com/792717052/spark-eit-flash-cards/?new)
+
 #### 220+ questions on all aspects of Apache Spark
 
 
