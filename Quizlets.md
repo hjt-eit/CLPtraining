@@ -5,6 +5,10 @@
 https://quizlet.com/792615872/aws-flash-cards/?new
 
 
+
+![Azure](https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png "Azure")
+
+
 ## Azure
 https://quizlet.com/793628049/azure-flash-cards/?new
 
