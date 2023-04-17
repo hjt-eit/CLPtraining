@@ -34,7 +34,8 @@ ___
 
 
 ## Spark
-![Spark](https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png "Spark")
+<img src="https://xuri.me/wp-content/uploads/2016/03/apache-spark-logo.png" width="600" height="500" />
+
 https://quizlet.com/792717052/spark-eit-flash-cards/?new
 [Spark EIT Flashcards | Quizlet](https://quizlet.com/792717052/spark-eit-flash-cards/?new)
 #### 220+ questions on all aspects of Apache Spark
