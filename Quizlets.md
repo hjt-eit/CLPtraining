@@ -205,10 +205,21 @@ https://quizlet.com/794208460/apache-nifi-flash-cards/?new
 ____
 
 
+# Apache Flink
+
 <img src="https://th.bing.com/th/id/OIP.W3cwHIPOgHtm7t8ClsFIwwHaEj?pid=ImgDet&rs=1" />
 
 https://quizlet.com/794213760/apache-flink-flash-cards/?new
 
 
+
+
+___
+
+
+
+# Tableau
+
+<img src="https://financeandbusiness.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_icon.png?h=c673cd1c&itok=YkUJtGl8" />
 
 
