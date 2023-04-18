@@ -222,4 +222,7 @@ ___
 
 <img src="https://financeandbusiness.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_icon.png?h=c673cd1c&itok=YkUJtGl8" />
 
+https://quizlet.com/794219771/tableau-flash-cards/?new
+
+
 
