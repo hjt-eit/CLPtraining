@@ -189,7 +189,15 @@ ____
 https://quizlet.com/794203071/impala-flash-cards/?new
 
 
+____
 
+
+# Apache NiFi
+
+
+<img src="https://th.bing.com/th/id/R.05d3c395f70a582b00d7c915835e3412?rik=ANyI0ghSUF8c7g&riu=http%3a%2f%2fblog.ippon.tech%2fcontent%2fimages%2f2017%2f01%2fnifi.png&ehk=fzHKsnGbCWyQSiMpt4QgonZvYK3OAAH5FI7XDEOfqTQ%3d&risl=&pid=ImgRaw&r=0" />
+
+https://quizlet.com/794208460/apache-nifi-flash-cards/?new
 
 
 
