@@ -170,6 +170,15 @@ https://quizlet.com/794195551/flume-flash-cards/?new
 
 
 
+____
+
+
+# Apache Impala 
+
+<img src="https://www.clipartkey.com/mpngs/m/229-2292005_apache-impala-logo-png-transparent-cloudera-impala.png" />
+
+
+https://quizlet.com/794203071/impala-flash-cards/?new
 
 
 
