@@ -94,6 +94,8 @@ ___
 https://quizlet.com/794125293/sql-flash-cards/?new
 
 
+
+
 ___
 
 
@@ -103,6 +105,7 @@ ___
 <img src="https://th.bing.com/th/id/R.368620db181824917c6637dbc658123d?rik=seWO3E3bqljM%2bA&riu=http%3a%2f%2fhortonworks.com%2fwp-content%2fuploads%2f2016%2f03%2f10_year_hadoop_logo.png&ehk=BcHST7oku6f38FoloxopTorx8F2zHso4ZdNqh8HZunU%3d&risl=&pid=ImgRaw&r=0" width="500" height="400" />
 
 https://quizlet.com/793791873/hadoop-flash-cards/?new
+
 
 
 ___
