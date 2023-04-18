@@ -131,6 +131,47 @@ ___
 <img src="https://i1.wp.com/dbaontap.com/wp-content/uploads/2019/10/snowflake.png" />
 
 
+___
+
+
+# Airflow
+
+<img src="https://th.bing.com/th/id/R.129919c4cf34d739b91e27ef6d38ced6?rik=aEIOT10FXgzPtQ&riu=http%3a%2f%2fblog.adnansiddiqi.me%2fwp-content%2fuploads%2f2018%2f09%2fairflow_logo.png&ehk=azFC2KmBUTIsC%2fZwT1oZygUIH%2fY071RvD1IYuY47A8k%3d&risl=&pid=ImgRaw&r=0" />
+
+
+
+https://quizlet.com/794193487/airflow-flash-cards/?new
+
+
+___
+
+# Avro
+<img src="https://blog.basyskom.com/wp-content/uploads/2021/03/avro.png" />
+
+
+
+# Parquet
+
+<img src="https://cdn.dribbble.com/users/299/screenshots/1625979/parquet-drib.png" />
+
+
+
+____
+
+
+# Flume
+
+<img src="https://miro.medium.com/v2/resize:fit:441/1*PECy2wFJ-oyHaEXnbiYE_g.png" />
+
+https://quizlet.com/794195551/flume-flash-cards/?new
+
+
+
+
+
+
+
+
 
 
 
