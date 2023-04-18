@@ -148,6 +148,9 @@ ___
 # Avro
 <img src="https://blog.basyskom.com/wp-content/uploads/2021/03/avro.png" />
 
+https://quizlet.com/794199525/avro-flash-cards/?new
+
+
 
 
 # Parquet
