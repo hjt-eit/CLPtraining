@@ -115,6 +115,7 @@ ___
 # HBase
 <img src="https://download.logo.wine/logo/Apache_HBase/Apache_HBase-Logo.wine.png" />
 
+https://quizlet.com/794217282/apache-hbase-flash-cards/?new
 
 
 ___
