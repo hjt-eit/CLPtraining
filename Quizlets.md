@@ -175,7 +175,7 @@ ____
 
 # Apache Impala 
 
-<img src="https://www.clipartkey.com/mpngs/m/229-2292005_apache-impala-logo-png-transparent-cloudera-impala.png" />
+<img src="https://www.clipartkey.com/mpngs/m/229-2292005_apache-impala-logo-png-transparent-cloudera-impala.png" width="300" height="600" />
 
 
 https://quizlet.com/794203071/impala-flash-cards/?new
