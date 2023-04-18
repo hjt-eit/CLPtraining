@@ -161,6 +161,14 @@ https://quizlet.com/794199525/avro-flash-cards/?new
 
 ____
 
+# Kubernetes
+
+<img src="https://pluspng.com/img-png/kubernets-logo-png-svg-kubernetes-logo-hd-png-img-transparent-png-image-pngitem-860x821.png" />
+
+https://quizlet.com/794206291/kubernetes-flash-cards/?new
+
+
+
 
 # Flume
 
