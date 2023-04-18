@@ -91,7 +91,8 @@ ___
 # SQL
 <img src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/uploads/2008/02/sql-595x335_0_0.jpg?itok=gnRGbu9H" />
 
-## Coming Soon
+https://quizlet.com/794125293/sql-flash-cards/?new
+
 
 ___
 
