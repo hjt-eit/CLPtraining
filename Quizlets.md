@@ -201,6 +201,13 @@ https://quizlet.com/794208460/apache-nifi-flash-cards/?new
 
 
 
+____
+
+
+<img src="https://th.bing.com/th/id/OIP.W3cwHIPOgHtm7t8ClsFIwwHaEj?pid=ImgDet&rs=1" />
+
+https://quizlet.com/794213760/apache-flink-flash-cards/?new
+
 
 
 
